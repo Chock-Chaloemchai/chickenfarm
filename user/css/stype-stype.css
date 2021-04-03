@@ -1,0 +1,107 @@
+.nav-link {
+    margin-top: 5px;
+}
+.proce {
+    margin-top: 3px;
+}
+.container-md {
+    color: #fff;
+}
+.navb {
+    background-color: #CD853F;
+   
+}
+.d-block {
+    width: 500px;
+    height: 710px;
+}
+.proce {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+.list-group {
+    width: 230px;
+    margin-top: 10px;
+}
+.list-group-item{
+    color: #000;
+}
+.table {
+    width: 825px;
+    margin-top: 10px;
+}
+.card {
+    height: 570px;
+}
+.card-img-top {
+    width: 253px;
+    height: 253px;
+}
+.btnbuy {
+    margin-left: 54px;
+    margin-top: 15px;
+ }
+
+.addItemBtn {
+    background-color: #029f5b;
+    border-color: #029f5b;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+
+.bi-cart20 {
+    margin-bottom: 6px;
+}
+.cart1 {
+    margin-top: 20px;
+    font-size: 20px;
+    background-color:#029f5b;
+    border: #029f5b;
+    color: #fff;
+}
+.bi-cart40 {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+
+ .pericon {
+     
+    margin-top: 18px;
+    margin-right: 2px;
+    color: #fff;
+ }
+.SpePrice {
+     margin-left: 70px;
+}
+.card-text {
+    text-align: center;
+    width: 213px;
+    height: 115px;
+}
+
+.dropac {
+    margin-left: 35px; 
+}
+.Pdetail {
+    margin-left: 65px;
+    width: 120px;
+    height: 50px;
+    font-size: 18px;
+    color: #029f5b;
+}
+.bi-cart3 {
+    width: 35px;
+    height: 35px;
+    margin-top: 6px;
+    margin-right: 15px;
+    color: #fff;
+}
+.cart7 {
+    width: 60px;
+    height: 60px;
+    color: #fff;
+    font-size: 28px;
+    background: #029f5b;
+}
